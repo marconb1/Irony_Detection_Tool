@@ -1,4 +1,5 @@
 Some clues on irony detection in tweets
+
 http://dl.acm.org/citation.cfm?id=2488012
 
 Código produzido para detectar ironia em tweets (https://twitter.com/).
@@ -22,6 +23,7 @@ A saída da ferramenta pode ser visualizada na pasta Results.
 
 ---
 Some clues on irony detection in tweets
+
 http://dl.acm.org/citation.cfm?id=2488012
 
 Code produced for detecting irony in tweets (https://twitter.com/).
